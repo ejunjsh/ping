@@ -26,7 +26,8 @@ __Notice: this code only build on macos__
 
 ## run
 
-   sudo ./ping
+    # the raw socket need root permission
+    sudo ./ping
 
 ## check dependencies of executable file
 
