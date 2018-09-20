@@ -27,7 +27,7 @@ __Notice: this code only build on macos__
 ## run
 
     # the raw socket need root permission
-    sudo ./ping
+    sudo ./ping www.baidu.com
 
 ## check dependencies of executable file
 
